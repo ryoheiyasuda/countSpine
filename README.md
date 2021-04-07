@@ -2,3 +2,9 @@
 This software is to count spines developed by Ryohei Yasuda, and distributed "as is". 
 
 # Usage
+- The starting program is startCountSpines.m
+- Adjust the scale factor in the file as needed.
+- It will ask you tiff files.
+- After choosing a file, you draw a line along a target denrite.
+- Press "count spines" to calculate the spine.
+- You can save the entire figure, and re-open it later for additional analyses.
