@@ -1,4 +1,4 @@
-# countSpine
+# countSpines
 This Matlab software is to count spines developed by Ryohei Yasuda, and distributed "as is". The software is not actively maintained, but tested on Matlab 2019a. Image processing tool box is required.
 
 # Usage
